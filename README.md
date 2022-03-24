@@ -1,4 +1,4 @@
-Hello there, I'm Fritz Rehde.
+## Hello there, I'm Fritz Rehde.
 
 About me:
 - :penguin: Passionate about Free and Open Source Software.
